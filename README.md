@@ -1,7 +1,7 @@
 # KnowledgeDatabase
 
 A centralized, structured repository to store everything I learn about web development and programming.  
-This repository acts as a **personal reference manual** — optimized for quick recall, clarity, and long-term reuse.
+This repository acts as a **personal reference manual** - optimized for quick recall, clarity, and long-term reuse.
 
 ---
 
